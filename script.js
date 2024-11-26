@@ -1,3 +1,4 @@
+
 const cardContainer = document.querySelector('.card-container');
 const toggleButtons = document.querySelectorAll('.toggle-button');
 
@@ -44,3 +45,4 @@ document.addEventListener("DOMContentLoaded", () => {
 
   observer.observe(video);
 });
+
